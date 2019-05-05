@@ -15,7 +15,7 @@ spring:
     password: root
 
 mybatis:
-  config-locations: classpath:mybatis/config.xml
+  config-locations: classpath:mybatis/confg.xml
   mapper-locations: classpath:mybatis/mapper/*.xml
 
 redis:
